@@ -31,6 +31,10 @@ Get ready to dive into a futuristic, dystopian world with the "Synthwave '2077" 
 
 The neon colors apply as soon as you select the theme. The old **Enable Neon** and **Disable Neon** commands were removed along with the text glow effect. The current theme uses VS Code’s built-in color theme support.
 
+## Optional neon glow
+
+The [Neon Glow companion](neon-glow/) adds a toggle and adjustable brightness for the editor glow on VS Code 1.100 or later.
+
 ## Disclaimer 👀
 
 Although I am not a theme developer, I fell in love with Cyberpunk 2077's style and the Synthwave '84 theme. I created Synthwave '2077 by merging the two according to my preferences. The theme is not perfect, but it improves with feedback, so don't hesitate to share your suggestions and improvements.
