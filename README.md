@@ -34,6 +34,10 @@ Get ready to dive into a futuristic, dystopian world with the "Synthwave '2077" 
 7. Each time you enable or disable the custom styles, VS Code will reload to apply the changes.
 8. To customize your terminal theme, install [oh my zsh!](https://github.com/ohmyzsh/ohmyzsh) and choose your desired theme !
 
+## Optional neon glow
+
+The [Neon Glow companion](neon-glow/) adds a toggle and adjustable brightness for the editor glow on VS Code 1.100 or later.
+
 ## Disclaimer 👀
 
 Although I am not a theme developer, I fell in love with Cyberpunk 2077's style and the Synthwave '84 theme. I created Synthwave '2077 by merging the two according to my preferences. The theme is not perfect, but it improves with feedback, so don't hesitate to share your suggestions and improvements.
